@@ -1,5 +1,4 @@
 
-<!-- removed -->
 <style>
 .control-label1{
 	width: 100%;
